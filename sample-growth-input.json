@@ -1,0 +1,28 @@
+{
+  "company": "Example Ltd",
+  "businessCategory": "Profitable Growth",
+  "currentPrice": 1000,
+  "revenueCagr5y": 22,
+  "epsCagr5y": 24,
+  "revenueCagr3y": 20,
+  "epsCagr3y": 23,
+  "futureGrowthVisibilityScore": 4,
+  "roe": 21,
+  "roce": 24,
+  "operatingMargin": 18,
+  "netMargin": 12,
+  "operatingCashFlow": 150,
+  "netProfit": 120,
+  "debtToEquity": 0.2,
+  "promoterHolding": 52,
+  "forwardPe": 30,
+  "expectedEpsGrowth": 20,
+  "forwardPeg": 1.5,
+  "forwardEps": 40,
+  "fairValue": 1200,
+  "scenarios": {
+    "bear": {"epsGrowth": 8, "forwardPe": 22},
+    "base": {"epsGrowth": 18, "forwardPe": 30},
+    "bull": {"epsGrowth": 28, "forwardPe": 38}
+  }
+}
